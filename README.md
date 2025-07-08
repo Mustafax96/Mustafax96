@@ -25,4 +25,4 @@ I am a software developer specializing in **C#**, **.NET**, and **Angular** with
 
 ---
 
---![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafahl&show_icons=true&theme=radical)
+
